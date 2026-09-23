@@ -1,0 +1,189 @@
+[
+    {
+        "id": "hamad-nazwan",
+        "name": "Hamad Nazwan",
+        "post": "Chief Executive Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Executive Officer of IEDC MES Keveeyam College, Hamad oversees the overall functioning and direction of the team. He works to coordinate different wings, encourage collaboration and help drive IEDC's vision and initiatives forward.",
+        "email": "hamadnazwan0987@gmail.com",
+        "phone": "7736368928",
+        "instagram": "https://www.instagram.com/hamadnazwan",
+        "linkedin": "https://www.linkedin.com/in/hamad-nazwan-b53171351"
+    },
+    {
+        "id": "rose-mariyam-nk",
+        "name": "Rose Mariyam NK",
+        "post": "Chief Wing Lead",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Wing Lead, Rose Mariyam coordinates the activities of the different IEDC wings and helps ensure effective collaboration among the team. She contributes to planning and executing initiatives that support the goals of IEDC.",
+        "email": "rosemariyamktkl@gmail.com",
+        "phone": "8281483623",
+        "instagram": "https://www.instagram.com/rosemariyam_",
+        "linkedin": "https://www.linkedin.com/in/rosemariyamnk"
+    },
+    {
+        "id": "fezin-mohammed-akbar",
+        "name": "Fezin Mohammed Akbar",
+        "post": "Chief Technical Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Technical Officer, Fezin leads the technical initiatives and digital projects of IEDC MES Keveeyam College. He works on developing practical technology-driven solutions and supporting the digital needs of the organisation.",
+        "email": "fezinmohmd@gmail.com",
+        "phone": "9048679639",
+        "instagram": "",
+        "linkedin": ""
+    },
+    {
+        "id": "muhammed-suhail-kp",
+        "name": "Muhammed Suhail K P",
+        "post": "Chief Event Coordinator",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Event Coordinator, Muhammed Suhail takes the lead in planning and coordinating IEDC events and activities. He works with the team to ensure events are organised smoothly and create meaningful experiences for students.",
+        "email": "kpsuhail335@gmail.com",
+        "phone": "9656798711",
+        "instagram": "https://www.instagram.com/_suh_aiil",
+        "linkedin": "https://www.linkedin.com/in/muhammed-suhail-09bb63414"
+    },
+    {
+        "id": "minsha-thapazzum",
+        "name": "Minsha Thapazzum",
+        "post": "Chief Community Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Community Officer, Minsha focuses on building connections and strengthening engagement within the IEDC community. She works to encourage participation, collaboration and meaningful interaction among students and the wider community.",
+        "email": "minshah2006@gmail.com",
+        "phone": "8138978200",
+        "instagram": "https://www.instagram.com/miinsshaaa",
+        "linkedin": "https://www.linkedin.com/in/minsha-undefined-48400b407"
+    },
+    {
+        "id": "asna-k",
+        "name": "ASNA K",
+        "post": "Chief Finance Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Finance Officer, Asna is responsible for supporting the financial management of IEDC activities. She helps with budgeting, financial planning and maintaining proper records for the organisation's initiatives.",
+        "email": "kasna9359@gmail.com",
+        "phone": "6238021167",
+        "instagram": "https://www.instagram.com/asna.assan",
+        "linkedin": "https://www.linkedin.com/in/asna-k-523bb7346"
+    },
+    {
+        "id": "muhammed-hashim-k",
+        "name": "Muhammed Hashim K",
+        "post": "Chief Creative Lead",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Creative Lead, Muhammed Hashim leads the creative direction of IEDC's projects and activities. He works with the creative team to develop engaging ideas, visual content and innovative ways to communicate IEDC's initiatives.",
+        "email": "hashjas0010@gmail.com",
+        "phone": "7592914344",
+        "instagram": "https://www.instagram.com/____hashii",
+        "linkedin": "https://www.linkedin.com/in/hashiii-ii-21ab72357"
+    },
+    {
+        "id": "sloka-n",
+        "name": "Sloka N",
+        "post": "Chief Operation Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Operation Officer, Sloka oversees the operational activities of IEDC and helps coordinate the execution of its initiatives. She works with different teams to ensure that activities are organised efficiently and carried out effectively.",
+        "email": "slokadinesh2008@gmail.com",
+        "phone": "9061512818",
+        "instagram": "https://www.instagram.com/_slokahh__",
+        "linkedin": ""
+    },
+    {
+        "id": "amal-cmc",
+        "name": "Amal CMC",
+        "post": "Chief Marketing Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Chief Marketing Officer, Amal leads the marketing and promotional activities of IEDC MES Keveeyam College. He focuses on communicating IEDC's initiatives effectively and helping increase awareness and participation in its programmes.",
+        "email": "",
+        "phone": "9745653916",
+        "instagram": "",
+        "linkedin": ""
+    },
+    {
+        "id": "rinshida-h",
+        "name": "Rinshida H",
+        "post": "Assistant Wing Lead",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Wing Lead, Rinshida supports the coordination and functioning of the IEDC wings. She works alongside the leadership team to ensure activities are organised effectively and team members work together towards common goals.",
+        "email": "rinshidarish044@gmail.com",
+        "phone": "9847578805",
+        "instagram": "https://www.instagram.com/rinshee.__",
+        "linkedin": ""
+    },
+    {
+        "id": "fawzil",
+        "name": "Fawzil",
+        "post": "Assistant Technical Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Technical Officer, Fawzil supports the technical team in managing digital projects and implementing technical solutions. He works alongside the CTO to contribute to the smooth functioning of IEDC's technology-related initiatives.",
+        "email": "fawzilfal@gmail.com",
+        "phone": "9037180345",
+        "instagram": "https://www.instagram.com/fawzil_",
+        "linkedin": ""
+    },
+    {
+        "id": "fathima-nasri-v",
+        "name": "Fathima Nasri V",
+        "post": "Assistant Event Coordinator",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Event Coordinator, Fathima supports the planning and execution of IEDC events and activities. She works closely with the event team to coordinate tasks and help ensure that programmes run smoothly.",
+        "email": "nesriihnesriih@gmail.com",
+        "phone": "7907160915",
+        "instagram": "https://www.instagram.com/fthm_nesriiiih",
+        "linkedin": ""
+    },
+    {
+        "id": "fahma-sherin",
+        "name": "Fahma Sherin",
+        "post": "Assistant Community Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Community Officer, Fahma supports initiatives that encourage student participation and strengthen the IEDC community. She works with the community team to create opportunities for collaboration and engagement.",
+        "email": "sherinfahma23@gmail.com",
+        "phone": "7306452058",
+        "instagram": "https://www.instagram.com/fahma.shrn",
+        "linkedin": ""
+    },
+    {
+        "id": "ahmed-mansoor",
+        "name": "Ahmed Mansoor",
+        "post": "Assistant Financial Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Financial Officer, Ahmed supports the financial activities and record management of IEDC. He works alongside the finance team in areas such as budgeting, tracking expenses and maintaining organised financial information.",
+        "email": "mansoorbinsf@gmail.com",
+        "phone": "9539708290",
+        "instagram": "https://www.instagram.com/_a7med_fz",
+        "linkedin": "https://www.linkedin.com/in/a7med-mansoor"
+    },
+    {
+        "id": "abdul-kadhir",
+        "name": "Abdul Kadhir",
+        "post": "Assistant Creative Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Creative Officer, Abdul Kadhir contributes to the creative activities and visual initiatives of IEDC. He works with the creative team to develop ideas and content that help communicate IEDC's activities effectively.",
+        "email": "kadhirtp@gmail.com",
+        "phone": "6235454040",
+        "instagram": "https://www.instagram.com/kadhirtp",
+        "linkedin": ""
+    },
+    {
+        "id": "fathima-rifa-c",
+        "name": "Fathima Rifa C",
+        "post": "Assistant Operation Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Operation Officer, Fathima supports the day-to-day coordination and operational activities of IEDC. She works with the team to ensure that tasks are organised efficiently and initiatives are carried out smoothly.",
+        "email": "ftmarifa3@gmail.com",
+        "phone": "9539338300",
+        "instagram": "https://www.instagram.com/ri.feeyy_",
+        "linkedin": ""
+    },
+    {
+        "id": "thanfeem",
+        "name": "Thanfeem",
+        "post": "Assistant Marketing Officer",
+        "photo": "images/default-profile.png",
+        "introduction": "As the Assistant Marketing Officer, Thanfeem supports the promotion and communication of IEDC's programmes and initiatives. He contributes to developing promotional ideas and reaching students and the wider community effectively.",
+        "email": "thanfyyyy@gmail.com",
+        "phone": "8592897613",
+        "instagram": "https://www.instagram.com/thanfyy",
+        "linkedin": ""
+    }
+]
